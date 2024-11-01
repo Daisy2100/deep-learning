@@ -17,3 +17,4 @@
 ## Download
 
 1. [連接](https://www.superdatascience.com/pages/deep-learning)
+2. [推薦閱讀](https://brohrer.mcknote.com/zh-Hant/)
